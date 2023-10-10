@@ -1,0 +1,56 @@
+
+{
+    "products":[
+        {
+            "name": "comuter",
+            "price": "130",
+            "category": "computers",
+            "description": "",
+            "image": "https://images.prismic.io/frameworkmarketplace/d692d0ec-5c37-4cf2-8854-7cbeb5694d85_image+%281%29.png?auto=compress,format"
+        },
+        {
+            "name": "sweater",
+            "price": "1",
+            "category": "Clothing",
+            "description": "fashion, clothes , sweater, wool, cardigan,…",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqJ9PhCrSC0CVTJqXqMISB5pZze28gl_9bw&usqp=CAU"
+        },
+        {
+            "name": "tie",
+            "price": "46",
+            "category": "Clothing",
+            "description": "fashion, tie, clothes, accessory , accessoire,…",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_p4oFxW_AGhFQ-xNMq5JUZayaBfzaF_wPw&usqp=CAU"
+        },
+        {
+            "name": "jacket",
+            "price": "190",
+            "category": "Clothing",
+            "description": "winter jacket ",
+            "image": "https://yourdesignstore.s3.amazonaws.com/uploads/yds/productImages/full/1629717737612384e9619ceYDS_Product_4@2x.jpg"
+        },
+        {
+            "name": "apple",
+            "price": "190",
+            "category": "Fruit",
+            "description": "winter Fruit ",
+            "image": "https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgxNDY1MzcxMTkxMTY0/different-types-of-apples-jpg.jpg"
+        }
+        ,
+        {
+            "name": "orange",
+            "price": "190",
+            "category": "Fruit",
+            "description": "winter Fruit ",
+            "image": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+        }
+        ,
+        {
+            "name": "grapes",
+            "price": "190",
+            "category": "Fruit",
+            "description": "winter Fruit ",
+            "image": "https://www.thespruceeats.com/thmb/l1_lV7wgpqRArWBwpG3jzHih_e8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-are-grapes-5193263-hero-01-80564d77b6534aa8bfc34f378556e513.jpg"
+        }
+    ]
+}
