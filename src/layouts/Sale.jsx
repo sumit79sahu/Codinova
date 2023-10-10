@@ -68,10 +68,12 @@ export default function Sale() {
 
                             <table>
                                 <thead>
-                                    <th>#</th>
-                                    <th>Products</th>
-                                    <th>Quantity</th>
-                                    <th>Price</th>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Products</th>
+                                        <th>Quantity</th>
+                                        <th>Price</th>
+                                    </tr>
                                 </thead>
                                 <tbody>{
                                     products.map((data, index) => {
